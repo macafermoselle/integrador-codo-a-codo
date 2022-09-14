@@ -9,7 +9,7 @@
 .ppalmenu {
     background-color: #4b4d4f;
     height: 90px;
-   
+
 
 }
 
@@ -56,11 +56,11 @@
 .d-block {
     filter: brightness(0.5);
     height: 800px;
-    object-fit:cover;
+    object-fit: cover;
 }
 
-.etiq{
-    position: absolute;
+.etiq {
+
     margin-left: 20%;
 }
 
@@ -68,25 +68,26 @@
     width: 25%;
 }
 
-.know{
+.know {
     margin-top: 15px;
     text-align: center;
     margin-bottom: 10px;
 }
 
-.card{
-    border: 0px;
+.card {
+
     z-index: 1;
 }
 
-.badge{
-    font-size:small;
+.badge {
+    font-size: small;
 }
-.bg-warning{
+
+.bg-warning {
     color: black;
 }
 
-.bg-info{
+.bg-info {
     color: white;
 }
 
@@ -103,33 +104,64 @@
     font-weight: 600;
 }
 
-.honolulu {
-    margin-top: 800px;
-    position: relative;
-}
 
 
 .honolulu-img {
 
-    object-fit: cover; 
+    object-fit: cover;
     height: 800px;
     width: 1425px;
 
 }
 
-.orden {
+.honolulu {
     display: flex;
-    height: 800px;
-    
+    height: 5%;
+    margin-top: 2%;
+
 }
 
-.imagen {
+
+.honoluluimg {
     width: 50%;
-    height: 800px;
 }
 
-.hola {
+
+.honoluludescription {
     position: relative;
-    background-color:rgb(41, 41, 41);
+    background-color: rgb(66, 65, 65);
     width: 50%;
+
+}
+
+.honoluludesc {
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+.honoluluimg {
+
+
+    object-fit: cover;
+}
+
+.honolulufinalimg {
+    width: 100%;
+
+    object-fit: cover;
+    object-position: center center;
+}
+
+.form {
+    align-items: center;
+    justify-content: center;
+}
+
+.formsize {
+    position: relative;
+    width: 50%;
+    display: flex;
+
+
+
 }
