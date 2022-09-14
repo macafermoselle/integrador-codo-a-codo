@@ -9,6 +9,7 @@
 .ppalmenu {
     background-color: #4b4d4f;
     height: 90px;
+   
 
 }
 
@@ -31,12 +32,13 @@
     color: white;
     padding-left: 90px;
     font-size: 30px;
+
 }
 
 .navweb {
     font-size: 20px;
     font-family: sans-serif;
-    padding-right: 100px;
+    margin-right: 200px;
     font-weight: 500;
 }
 
@@ -48,6 +50,7 @@
 
 .cardescription {
     font-size: 18px;
+    font-weight: 400;
 }
 
 .d-block {
@@ -56,11 +59,77 @@
     object-fit:cover;
 }
 
-.carousel-item {
+.etiq{
+    position: absolute;
+    margin-left: 20%;
+}
+
+.col {
+    width: 25%;
+}
+
+.know{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.card{
+    border: 0px;
+    z-index: 1;
+}
+
+.badge{
+    font-size:small;
+}
+.bg-warning{
+    color: black;
+}
+
+.bg-info{
+    color: white;
+}
+
+.etiquetas {
+    margin-top: 25px;
+    padding-left: 16px;
+}
+
+.card-body {
+    padding-top: 5px;
+}
+
+.display-6 {
+    font-weight: 600;
+}
+
+.honolulu {
+    margin-top: 800px;
+    position: relative;
+}
+
+
+.honolulu-img {
+
+    object-fit: cover; 
+    height: 800px;
+    width: 1425px;
 
 }
 
-.imgcarousel {
-
+.orden {
+    display: flex;
+    height: 800px;
+    
 }
 
+.imagen {
+    width: 50%;
+    height: 800px;
+}
+
+.hola {
+    position: relative;
+    background-color:rgb(41, 41, 41);
+    width: 50%;
+}
