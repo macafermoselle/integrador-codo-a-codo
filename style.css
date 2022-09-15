@@ -44,13 +44,13 @@
 
 .carousel-caption {
     text-align: right;
-    left: 55%;
+    left: 53%;
     top: 30%;
 }
 
 .cardescription {
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .d-block {
@@ -63,15 +63,32 @@
 
     margin-left: 20%;
 }
+.buyticketbtn{
+    font-weight: bold;
+    background-color: #27a844;
+}
+
+.oradorbtn {
+    font-weight: bold;
+}
 
 .col {
     width: 25%;
 }
 
 .know {
-    margin-top: 15px;
+
     text-align: center;
     margin-bottom: 10px;
+}
+
+.oradorcharla {
+    font-size: 125%;
+    color: #525353;
+}
+
+.subrayado {
+    text-decoration: underline dotted;
 }
 
 .card {
@@ -145,6 +162,10 @@
     object-fit: cover;
 }
 
+.honoluludesctwo{
+    font-size: 120%;
+}
+
 .honolulufinalimg {
     width: 100%;
 
@@ -162,6 +183,75 @@
     width: 50%;
     display: flex;
 
+ margin-left: 25%;
+
+}
+
+.comments {
+    margin-top: 1%;
+    padding: 0;
+}
+
+.descrip {
+    height: 120px;
+    margin: 6px;
+    padding-bottom: 80px;
+}
+.initialism {
+    margin: 3px;
+}
+
+.recordatorio{
+    width:43.7%;
+    text-align: right;
+    padding: 0;
+    color: #525353;
+}
 
 
+.descrip::placeholder{
+    font-size: 150%;
+}
+
+.formulario {
+    padding: 6px;
+}
+
+.sendbutton {
+    margin-top: 1%;
+    margin-left: 25%;
+    width: 100%;
+}
+
+.sendbt{
+    width: 50%;
+    background-color: #96c93e;
+    color: white;
+    font-weight: 600;
+    font-size: 200%;
+}
+
+.footermenu {
+    padding: 20px;
+    font-size: 160%;
+    color: white;
+    text-align: center;
+    
+}
+
+.footer {
+    background-color: #1d3c4e;
+}
+
+.footernav {
+    color: white;
+    margin: 10px;
+    width: 210px;
+
+
+}
+
+.footeritem {
+margin-top: 10%;
+   
 }
