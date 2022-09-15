@@ -61,6 +61,7 @@
 
 .etiq {
 
+    width: 1160px;
     margin-left: 20%;
 }
 .buyticketbtn{
@@ -74,6 +75,7 @@
 
 .col {
     width: 25%;
+    margin: 10px;
 }
 
 .know {
