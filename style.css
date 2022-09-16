@@ -1,46 +1,4 @@
-.buytickets {
-    color: green;
-}
 
-.buytickets:hover {
-    color: rgb(18, 184, 18);
-}
-
-.ppalmenu {
-    background-color: #4b4d4f;
-    height: 90px;
-
-
-}
-
-.lettermenu {
-    color: #898e92;
-    font-family: 'Poppins', sans-serif;
-}
-
-.lettermenu:hover {
-    color: white;
-}
-
-.navbrand {
-    width: 150px;
-
-
-}
-
-.navwebname {
-    color: white;
-    padding-left: 90px;
-    font-size: 30px;
-
-}
-
-.navweb {
-    font-size: 20px;
-    font-family: sans-serif;
-    margin-right: 200px;
-    font-weight: 500;
-}
 
 .carousel-caption {
     text-align: right;
